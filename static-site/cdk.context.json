@@ -1,0 +1,9 @@
+{
+  "hosted-zone:account=841162683177:domainName=cdkdevtech.com:region=us-east-1": {
+    "Id": "/hostedzone/Z0972744M8ZF3AD9RK3E",
+    "Name": "cdkdevtech.com."
+  },
+  "acknowledged-issue-numbers": [
+    32775
+  ]
+}
